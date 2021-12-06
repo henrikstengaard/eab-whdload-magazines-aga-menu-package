@@ -1,0 +1,5 @@
+Name    : 42 issue #1
+Version : AGA
+Groups  : Talent
+Type    : Diskmag
+RunFile : 42Issue1AGA.Slave
